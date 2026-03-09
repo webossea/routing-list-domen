@@ -1,2 +1,5 @@
 # routing-list-domen
-Личный список доменов для выборочной маршрутизации трафика. Позволяет оптимизировать сетевые соединения и доступ к ресурсам. Personal domain list for selective traffic routing. Designed to optimize network connections and resource accessibility.
+Личный список доменов для выборочной маршрутизации трафика. Позволяет оптимизировать сетевые соединения и доступ к ресурсам. 
+Personal domain list for selective traffic routing. Designed to optimize network connections and resource accessibility.
+
+# Ничего не призывается к действию, только для теори...
